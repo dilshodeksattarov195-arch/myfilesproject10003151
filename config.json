@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerrncrypt",
+        "uuid": 3705576,
+        "checksum": "tt68g"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
